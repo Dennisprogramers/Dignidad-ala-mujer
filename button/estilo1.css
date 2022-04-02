@@ -1,0 +1,67 @@
+*{
+	 font-family: 'Quicksand', sans-serif;
+     font-size: auto;
+}
+body{ 
+    
+
+ }
+
+ .contenedor{
+    border-radius: 5%;
+ 	max-width: 4000px;
+ 	min-width: 500px;
+ 	width: 90%;
+ 	height:100%; 
+    background-image: url(fondo0.1.jpg);
+    background-size: cover;
+ 	background-color: grey;
+ }
+ .contenedor2{
+    border-radius: 5%;
+    max-width: 4000px;
+ 	min-width: 500px;
+ 	width: 90%;
+ 	height:600px; 
+    background-image: url(fondo0.1.jpg);
+    background-size: cover;
+ 	background-color: grey;
+
+ }
+ .img1{
+ 	 border-radius: 5%;
+ 	 display: inline-block;
+ 	 width: 40%;
+ 	 height: 10%;
+ 	 object-fit: cover;
+ }
+ .img2{
+
+     display: inline-block;
+     border-radius: 5%;
+     width: 30%;
+     height: 80%;
+     object-fit: cover;
+ 	
+ }
+ .p1{
+ 	display: inline-flex;
+    justify-content: center;
+    align-items: center;
+ 	opacity: 0.7;
+ 	display: inline-block;
+ 	width: 40%;
+ 	height: 40%;
+ 	background-color: white;
+ }
+ .p2{
+    top: 0;
+    padding:0;
+   	display: inline-flex;
+    justify-content: center;
+    align-items: center;
+ 	opacity: 0.7;
+ 	width: 40%;
+ 	height: 40%;
+ 	background-color: white;
+ }
