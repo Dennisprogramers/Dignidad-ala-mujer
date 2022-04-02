@@ -9,6 +9,8 @@ body{
 	/*
 	background-color: #C0C0C0;
 	*/
+	max-width:1000px;
+	min-width:600px;
 	background-image: url(fondo2.jpg);
 	background-size: cover;
 	height: 100%;
