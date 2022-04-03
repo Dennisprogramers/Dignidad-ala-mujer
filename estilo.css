@@ -13,7 +13,7 @@ body{
 	min-height:2000px;
 	max-width:2000px;
 	min-width:1000px;
-	background-image: url(fondo2.jpg);
+	background-image: url(fondo7.jpg);
 	background-size: cover;
 	height: 2000px;
 	width: 95%;
@@ -32,7 +32,7 @@ body{
 	cursor:auto;
 	margin-top: 5px;
 	background-color: white;
-	opacity:0.4;
+	opacity:0.7;
 	border-radius: 5%;
 	border: solid 5px white;
 	width: 70%; 
@@ -44,7 +44,7 @@ body{
 	   display:inline-block; 
            font-size:25px;
 	   transition: 0.6s;
-	   opacity:0.5; 
+	   opacity:0.7; 
 	   background: white;
 	   width:80%;
 	   height:100px;
