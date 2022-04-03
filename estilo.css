@@ -38,11 +38,11 @@ body{
 	width: 70%; 
 }
 .p2{
-	color: black;
-	background:white;
+	color: white;
+	background:black;
 	opacity:0.7;
 	display:inline-block;
-	width:80%;
+	width:60%;
 }
 .button-1{  
 	   display:inline-block; 
