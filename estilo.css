@@ -42,8 +42,8 @@ body{
 	transition: 0.6s;
 	   opacity:0.5; 
 	   background: white;
-	   width:50px;
-	   height:50%;
+	   width:60%;
+	   height:100px;
 	   border-radius: 3%;
 }
 /*propiedad hover*/
