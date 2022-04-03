@@ -15,7 +15,7 @@ body{
 	min-width:1000px;
 	background-image: url(fondo2.jpg);
 	background-size: cover;
-	height: 2800px;
+	height: 100%;
 	width: 95%;
 	border-radius: 5%;
 }
