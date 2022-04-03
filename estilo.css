@@ -1,6 +1,6 @@
 *{
  font-family: 'Quicksand', sans-serif;
- font-size:30px;
+ font-size:40px;
 }
 body{
 	background-color: #F8F8FF;
@@ -40,7 +40,8 @@ body{
 .p2{
 	color: white;
 }
-.button-1{   
+.button-1{  
+	   display:inline-block; 
            font-size:20px;
 	   transition: 0.6s;
 	   opacity:0.5; 
